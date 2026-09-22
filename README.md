@@ -4,3 +4,4 @@
 - VM Proxmox
 - SSH avec authentification par clé
 - IP statique
+- Pageant
