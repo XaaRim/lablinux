@@ -1,3 +1,6 @@
-# Mon Linux Lab
+## Environnement
 
-Laboratoire personnel pour apprendre Linux, Git, Ansible et Terraform.
+- Ubuntu Server 26.04
+- VM Proxmox
+- SSH avec authentification par clé
+- IP statique
