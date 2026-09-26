@@ -5,3 +5,8 @@
 - SSH avec authentification par clé
 - IP statique
 - Pageant
+
+#Services
+
+- SSH
+- Git
