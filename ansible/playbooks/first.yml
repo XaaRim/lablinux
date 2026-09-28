@@ -1,0 +1,6 @@
+- name: "Mon premier playbook"
+  hosts: lab
+
+  tasks:
+    - name: "Afficher le hostname"
+      ansible.builtin.command: hostname
